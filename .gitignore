@@ -1,0 +1,65 @@
+S / Editor
+# ========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+.idea/
+.vscode/
+*.iml
+
+# ========================
+# Java
+# ========================
+# Maven / Gradle
+target/
+build/
+.gradle/
+.mvn/wrapper/maven-wrapper.jar
+
+# Compiled Java
+*.class
+
+# Logs
+*.log
+
+# ========================
+# Python
+# ========================
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Packaging
+*.egg-info/
+dist/
+build/
+
+# Test / coverage
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# ========================
+# AWS / Secrets
+# ========================
+.aws/
+*.pem
+*.key
+.env
+
+# ========================
+# Misc
+# ========================
+*.tmp
+*.orig
+
+
