@@ -226,4 +226,8 @@ response = {
 }
 
 
+Why use low-level?
+1) full control if needed 
+2) Access to ResponseMetadata (Low-level client gives full HTTP response headers, request IDs, retries, throttling info)
+3) work with binary data
 """
