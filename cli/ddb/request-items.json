@@ -1,0 +1,29 @@
+{
+  "Notes": [
+    {"PutRequest": {"Item": {"UserId": {"S": "Albert"}, "NoteId": {"N": "1"}, "Notes": {"S": "E=mc^2, but my love for physics is infinite!"}, "Favorite": {"S": "Yes"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Albert"}, "NoteId": {"N": "2"}, "Notes": {"S": "Inventing new theories. Spoiler: they're all brilliant!"}, "Favorite": {"S": "No"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Albert"}, "NoteId": {"N": "3"}, "Notes": {"S": "Creating a unified theory of laughter. Stay tuned for the punchline!"}, "Favorite": {"S": "No"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Albert"}, "NoteId": {"N": "4"}, "Notes": {"S": "Exploring the universe of puns. It's a vast and pun-derful place!"}, "Favorite": {"S": "No"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Albert"}, "NoteId": {"N": "5"}, "Notes": {"S": "Lost in the multiverse of ideas. Maybe I'll find a theory of everything!"}, "Favorite": {"S": "No"}}}},
+	{"PutRequest": {"Item": {"UserId": {"S": "Marie"}, "NoteId": {"N": "1"}, "Notes": {"S": "Discovered radium today. Feeling positively radioactive!"}, "Favorite": {"S": "Yes"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Marie"}, "NoteId": {"N": "2"}, "Notes": {"S": "Experimenting with glowing substances. Science is lit!"}, "Favorite": {"S": "No"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Marie"}, "NoteId": {"N": "3"}, "Notes": {"S": "Breaking bad (elements). Cooking up some groundbreaking science!"}, "Favorite": {"S": "No"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Marie"}, "NoteId": {"N": "4"}, "Notes": {"S": "Becoming one with the periodic table. Elemental, my dear Watson!"}, "Favorite": {"S": "No"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Marie"}, "NoteId": {"N": "5"}, "Notes": {"S": "Cooking up some Nobel Prize-worthy experiments!"}, "Favorite": {"S": "No"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Isaac"}, "NoteId": {"N": "1"}, "Notes": {"S": "An apple fell on my head today. Gravity, you've got my attention!"}, "Favorite": {"S": "Yes"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Isaac"}, "NoteId": {"N": "2"}, "Notes": {"S": "Tea time with gravity. It's pulling me down!"}, "Favorite": {"S": "No"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Isaac"}, "NoteId": {"N": "3"}, "Notes": {"S": "Gravity got me down, but not my spirits!"}, "Favorite": {"S": "No"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Isaac"}, "NoteId": {"N": "4"}, "Notes": {"S": "Gravity puns: they never get old, just heavier!"}, "Favorite": {"S": "No"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Isaac"}, "NoteId": {"N": "5"}, "Notes": {"S": "Falling for gravity jokes. They have a certain pull!"}, "Favorite": {"S": "No"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Jane"}, "NoteId": {"N": "1"}, "Notes": {"S": "Studying black holes. They're like my love life—mysterious and confusing!"}, "Favorite": {"S": "Yes"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Jane"}, "NoteId": {"N": "2"}, "Notes": {"S": "Lost in the space-time continuum. Hope I find my way back!"}, "Favorite": {"S": "No"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Jane"}, "NoteId": {"N": "3"}, "Notes": {"S": "Lost my notes on quantum mechanics. Now existing in a superposition of confusion!"}, "Favorite": {"S": "No"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Jane"}, "NoteId": {"N": "4"}, "Notes": {"S": "Quantum entanglement: when your notes are in two places at once!"}, "Favorite": {"S": "No"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Jane"}, "NoteId": {"N": "5"}, "Notes": {"S": "Quantum mechanics and chill. It's a wave-particle party!"}, "Favorite": {"S": "No"}}}},
+	{"PutRequest": {"Item": {"UserId": {"S": "Charles"}, "NoteId": {"N": "1"}, "Notes": {"S": "Evolution in progress! Monkeys, here I come."}, "Favorite": {"S": "Yes"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Charles"}, "NoteId": {"N": "2"}, "Notes": {"S": "Natural selection: survival of the funniest!"}, "Favorite": {"S": "No"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Charles"}, "NoteId": {"N": "3"}, "Notes": {"S": "Surviving survival of the fittest. It's a tough job!"}, "Favorite": {"S": "No"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Charles"}, "NoteId": {"N": "4"}, "Notes": {"S": "Survival tip: always bring a funny meme to natural selection events!"}, "Favorite": {"S": "No"}}}},
+    {"PutRequest": {"Item": {"UserId": {"S": "Charles"}, "NoteId": {"N": "5"}, "Notes": {"S": "Surviving on natural selection snacks: survival of the crunchiest!"}, "Favorite": {"S": "No"}}}}
+  ]
+}
